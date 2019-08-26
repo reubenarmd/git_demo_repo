@@ -5,6 +5,6 @@ this is my first readme on git
 - one
 - two
 - three
-	-one
-	-two
-	-three
+	- one
+	- two
+	- three
